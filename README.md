@@ -1,0 +1,8 @@
+![image_0](https://github.com/Aggerio/Caterpilllar-Hackathon/blob/master/demo_images/Caterpillar-Hackathon-Project-Voice-Enabled-Fault-Diagnosis.pdf-page0.jpg?raw=true)
+![image_1](https://github.com/Aggerio/Caterpilllar-Hackathon/blob/master/demo_images/Caterpillar-Hackathon-Project-Voice-Enabled-Fault-Diagnosis.pdf-page1.jpg?raw=true)
+![image_2](https://github.com/Aggerio/Caterpilllar-Hackathon/blob/master/demo_images/Caterpillar-Hackathon-Project-Voice-Enabled-Fault-Diagnosis.pdf-page2.jpg?raw=true)
+![image_3](https://github.com/Aggerio/Caterpilllar-Hackathon/blob/master/demo_images/Caterpillar-Hackathon-Project-Voice-Enabled-Fault-Diagnosis.pdf-page3.jpg?raw=true)
+![image_4](https://github.com/Aggerio/Caterpilllar-Hackathon/blob/master/demo_images/Caterpillar-Hackathon-Project-Voice-Enabled-Fault-Diagnosis.pdf-page4.jpg?raw=true)
+![image_5](https://github.com/Aggerio/Caterpilllar-Hackathon/blob/master/demo_images/Caterpillar-Hackathon-Project-Voice-Enabled-Fault-Diagnosis.pdf-page5.jpg?raw=true)
+![image_6](https://github.com/Aggerio/Caterpilllar-Hackathon/blob/master/demo_images/Caterpillar-Hackathon-Project-Voice-Enabled-Fault-Diagnosis.pdf-page6.jpg?raw=true)
+![image_7](https://github.com/Aggerio/Caterpilllar-Hackathon/blob/master/demo_images/Caterpillar-Hackathon-Project-Voice-Enabled-Fault-Diagnosis.pdf-page7.jpg?raw=true)
