@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionnaire HUD</title>
+    <link rel="stylesheet" href="questionnaire.css">
+</head>
+<body>
+    <video id="webcam-video" autoplay loop playsinline muted></video>
+    <div id="hud">
+        <div id="question-container">
+            <p id="question"></p>
+            <p id="reply"></p>
+        </div>
+        <div id="output-box">
+            <img alt="" id="ok-img">
+            <p id="content"></p>
+        </div>
+    </div>
+    <form action="" id="form-input">
+        <input type="text" id="speech-result" value="">
+        <input type="text" id="question-result" value="">
+    </form>
+    <script src="voice.js"></script>
+</body>
+</html>
+

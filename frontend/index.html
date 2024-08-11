@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caterpillar Smart Glass HUD</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+    <header class="video-header">
+        <!-- Video element for webcam feed -->
+        <video id="webcam-video" autoplay loop playsinline muted></video>
+
+        <!-- HUD overlay for QR code scanning -->
+        <div class="hud-overlay">
+            <div class="qr-scan-text">
+                <h2 id="qr-text">Scan User QR Code</h2>
+            </div>
+            <div class="user-details" id="user-details">
+                <!-- User details will be displayed here after API call -->
+            </div>
+        </div>
+
+        <button id="capture-btn" class="capture-btn">Capture QR</button>
+    </header>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsqr/1.4.0/jsQR.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
+
